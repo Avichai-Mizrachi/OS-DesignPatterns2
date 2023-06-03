@@ -1,5 +1,3 @@
-Sure! Here's another version of the description:
-
 ## Description
 This assignment involves implementing a program that simulates a pipeline of active objects using POSIX threads in C. The pipeline consists of four main components: Task, Queue, Active Object, and Pipeline.
 
