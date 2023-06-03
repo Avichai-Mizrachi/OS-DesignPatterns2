@@ -26,5 +26,5 @@ By organizing the tasks into a pipeline of active objects, this program effectiv
 ## How to run
 ```
 # Run the program
-./st_pipeline
+./st_pipeline <N>
 ```
